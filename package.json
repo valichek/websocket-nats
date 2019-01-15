@@ -29,6 +29,7 @@
     "tls": "./lib/tls.js"
   },
   "devDependencies": {
+    "nats": "1.2.2",
     "webpack": "^1.13.0"
   },
   "dependencies": {
